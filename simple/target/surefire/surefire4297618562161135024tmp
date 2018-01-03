@@ -1,5 +1,5 @@
 #surefire
-#Fri Dec 29 11:12:55 CET 2017
+#Wed Jan 03 09:24:46 CET 2018
 testClassesDirectory=/Users/juansicilia/GIT/mvnex/A-Simple-Maven-Project/simple/target/test-classes
 classPathUrl.2=/Users/juansicilia/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
 useManifestOnlyJar=true
